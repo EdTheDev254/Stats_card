@@ -41,7 +41,7 @@
 }
 
 #main_card_div_header {
-  background: linear-gradient(var(--headerviolet), var(--headerviolet)), url("image-header-mobile.jpg");
+  background: linear-gradient(var(--headerviolet), var(--headerviolet)), url("https://edthedev254.github.io/Stats_card/image-header-mobile.jpg");
   background-position: center;
   background-size: cover;
   height: 40vh;
@@ -156,7 +156,7 @@
   }
 
   .desktop_header {
-    background: linear-gradient(var(--headerviolet), var(--headerviolet)), url("image-header-mobile.jpg");
+    background: linear-gradient(var(--headerviolet), var(--headerviolet)), url("https://edthedev254.github.io/Stats_card/image-header-mobile.jpg");
     background-position: center;
     background-size: cover;
     width: 50%;
